@@ -23,10 +23,10 @@ If it computes, communicates, or can be optimized… I'm probably interested.
 Efficient binary segmentation for traversable ground estimation in outdoor robotics, deployable on a **320 KB RAM** microcontroller (ESP32-S3).  
 Built with Quantizaion Aware knowledge Distillation — achieving with a Rust `no_std` inference engine.  
 
-### 🔧 [MicroFlow Extension](https://github.com/matteocarnelos/microflow-rs)
-Contributing to the upstream **MicroFlow TinyML engine** (Rust, `no_std`) — adding resize operators (bilinear & nearest-neighbor), max pooling, and actively developing a features branch with in-layer ops, concatenation, channel split, and ONNX model support.
+### 🔧 [MicroFlow Extension](https://github.com/federico-pizz/microflow-rs)
+Working on **MicroFlow TinyML engine** (Rust, `no_std`) — adding resize operators (bilinear & nearest-neighbor), max pooling, and actively developing a features branch with in-layer ops, concatenation, channel split, and ONNX model support. Forked from [MicroFlow](https://github.com/matteocarnelos/microflow-rs)
 
-### 🌊 [LBM Fluid Dynamics Solver](https://github.com/federico-pizz/fluid-solid-interation-dealii)
+### 🌊 [LBM Fluid Dynamics Solver](https://github.com/federico-pizz/LBM-solver)
 Parallel C++ fluid dynamics solver based on the **Lattice Boltzmann Method**, supporting 2D/3D simulations with OpenMP, cache-optimized data structures, and validation against standard benchmarks. Deployed on the MOX cluster.
 
 ### 🕸️ Piranha ITA — Used Goods Price Comparison Engine
